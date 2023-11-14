@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="https://i.ibb.co/MCZB694/hbtlogo.jpg" alt="HebatLuBot Logo">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
